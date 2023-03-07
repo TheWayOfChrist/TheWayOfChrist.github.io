@@ -1,0 +1,20 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>The Way of Christ</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body style="background-color: #000000">
+
+<h1 style="text-align: center;color: #FFD700">Sample</h1>
+
+<img src="assets/Images/Christ-Pantocrator.jpg" alt="Christ Pantocrator" style="float: right;width: 300px;">
+
+
+ 
+ 
+
+
+</body>
+</html> 
+
