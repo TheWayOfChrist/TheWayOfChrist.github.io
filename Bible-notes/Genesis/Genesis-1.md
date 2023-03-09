@@ -9,7 +9,7 @@ The divine trinity had also planned redemption from the begining **"According as
 ### notes on the book of Genesis itself
 
 The first eleven chapters of Genesis are about four major events ( creation of Earth, the fall, the flood and the rebellion at Babel). After this, the book focuses souly on Israel  and also specifically on Four patriachs ( Abraham, Isaac, Jacob and Joseph). In the first 11 books, the human race act sinfully but there is hope with the introduction of Abraham and the covenant that is formed between him and God.  There is a cycle prevalent througout, wherein Humanity continues to sin against God yet God 
-always grants them a second chance.	Ultimately, Despite all the failures, Gods devine will is acheived regardless - **“The counsel of the Lord stands forever, the plans of His heart to all generations”** *(Psalms 33:11)*.  Genesis lays out the foundations for the rest of the Bible story. God's promise of salvation is first mentioned in it *(Genesis 3:15)*.
+always grants them a second chance.	Ultimately, Despite all the failures, Gods devine will is acheived regardless - **“The counsel of the Lord stands forever, the plans of His heart to all generations”** *(Psalms 33:11)*.  Genesis lays out the foundations for the rest of the Bible story. God's promise of salvation is first mentioned in it  - *(Genesis 3:15)*.
 
 ### Genesis 1 notes
 
